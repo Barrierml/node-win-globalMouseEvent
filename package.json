@@ -109,20 +109,5 @@
     "singleQuote": true,
     "arrowParens": "always"
   },
-  "packageManager": "yarn@4.3.0",
-  "optionalDependencies": {
-    "node-win-global-mouse-event-win32-x64-msvc": "1.0.0",
-    "node-win-global-mouse-event-darwin-x64": "1.0.0",
-    "node-win-global-mouse-event-linux-x64-gnu": "1.0.0",
-    "node-win-global-mouse-event-linux-x64-musl": "1.0.0",
-    "node-win-global-mouse-event-linux-arm64-gnu": "1.0.0",
-    "node-win-global-mouse-event-win32-ia32-msvc": "1.0.0",
-    "node-win-global-mouse-event-linux-arm-gnueabihf": "1.0.0",
-    "node-win-global-mouse-event-darwin-arm64": "1.0.0",
-    "node-win-global-mouse-event-android-arm64": "1.0.0",
-    "node-win-global-mouse-event-freebsd-x64": "1.0.0",
-    "node-win-global-mouse-event-linux-arm64-musl": "1.0.0",
-    "node-win-global-mouse-event-win32-arm64-msvc": "1.0.0",
-    "node-win-global-mouse-event-android-arm-eabi": "1.0.0"
-  }
+  "packageManager": "yarn@4.3.0"
 }
