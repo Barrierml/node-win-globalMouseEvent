@@ -3125,9 +3125,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"node-win-globalMouseEvent@workspace:.":
+"node-win-global-mouse-event@workspace:.":
   version: 0.0.0-use.local
-  resolution: "node-win-globalMouseEvent@workspace:."
+  resolution: "node-win-global-mouse-event@workspace:."
   dependencies:
     "@napi-rs/cli": "npm:^2.16.4"
     "@swc-node/register": "npm:^1.6.8"
