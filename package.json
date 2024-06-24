@@ -15,7 +15,9 @@
   ],
   "files": [
     "index.d.ts",
-    "index.js"
+    "index.js",
+    "node-win-globalMouseEvent.win32-arm64-msvc.node",
+    "node-win-globalMouseEvent.win32-x64-msvc.node"
   ],
   "napi": {
     "name": "node-win-globalMouseEvent",
